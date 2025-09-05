@@ -2,13 +2,30 @@
 layout: default
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<div class="post-navigation">
+  <div class="nav-previous">
+    {% if page.previous %}
+      <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">← Önceki</a>
+    {% endif %}
+  </div>
+  <div class="nav-home">
+    <a href="/" class="back-home">Ana Sayfa</a>
+  </div>
+  <div class="nav-next">
+    {% if page.next %}
+      <a href="{{ page.next.url }}" title="{{ page.next.title }}">Sonraki →</a>
+    {% endif %}
+  </div>
+</div>
+
 <h1>{{ page.title }}</h1>
 
-<p class="view">by {{ page.author | default: site.author }}</p>
+<hr>
 
 {{content}}
 
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
+<div class="post-footer">
+  <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="scroll-to-top">
+    ↑ Yukarı
+  </button>
+</div>
