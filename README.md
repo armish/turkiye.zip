@@ -1,2 +1,1 @@
-# turkiye.zip
-Turkiye.zip: Sıkıştırılmış Türkiye Gündemi
+# turkiye.zip: Sıkıştırılmış Türkiye Gündemi

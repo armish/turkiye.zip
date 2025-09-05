@@ -1,0 +1,7 @@
+title: turkiye.zip
+description: Sıkıştırılmış Türkiye Gündemi
+theme: jekyll-theme-minimal   # simple built-in theme
+markdown: kramdown
+plugins:
+  - jekyll-feed               # RSS
+  - jekyll-sitemap            # sitemap.xml
