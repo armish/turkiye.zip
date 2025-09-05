@@ -1,6 +1,4 @@
 ---
-layout: page
+layout: home
 title: Anasayfa
 ---
-
-Gündem özetleri.
