@@ -118,6 +118,27 @@ ul li {
   }
 }
 
+/* Sticky post title */
+.sticky-title {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 100;
+  padding-top: 10px;
+  margin-bottom: 20px;
+  
+  h1 {
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  hr {
+    margin: 0;
+    border: none;
+    border-top: 1px solid #e5e5e5;
+  }
+}
+
 .post-footer {
   margin-top: 50px;
   padding-top: 20px;
