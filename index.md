@@ -35,7 +35,7 @@ title: Anasayfa
   }
   
   .day-cell {
-    min-height: 90px;
+    height: 90px;
     border: 2px solid #e1e4e8;
     border-radius: 8px;
     padding: 12px;
@@ -74,6 +74,7 @@ title: Anasayfa
   .day-cell.empty {
     background: transparent;
     border: none;
+    height: 90px;
   }
   
   .day-content {
@@ -211,7 +212,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </div>`;
         hasPostsInWeek = true;
       } else {
-        weekHtml += '<div class="day-cell"></div>';
+        weekHtml += '<div class="day-cell empty"></div>';
       }
     }
     
@@ -223,10 +224,7 @@ document.addEventListener('DOMContentLoaded', function() {
     currentDate.setDate(currentDate.getDate() + 7);
   }
   
-  // Reverse the weeks array to show most recent first
-  allWeeks.reverse();
-  
-  // Add all weeks to the calendar
+  // Add all weeks to the calendar in chronological order
   calendarContent.innerHTML = allWeeks.join('');
 });
 </script>
