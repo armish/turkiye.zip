@@ -1,6 +1,10 @@
 title: 🇹🇷 turkiye.zip 🗜️
 description: Sıkıştırılmış Türkiye Gündemi
 markdown: kramdown
+url: "https://turkiye.zip"  # Your site URL for absolute URLs
+author: turkiye.zip
+# twitter_username: yourtwitterhandle  # Optional: Add your Twitter handle without @
+# logo: /assets/img/logo.png  # Optional: Add a logo image for social media cards
 plugins:
   - jekyll-feed               # RSS
   - jekyll-sitemap            # sitemap.xml
