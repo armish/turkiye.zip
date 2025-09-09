@@ -19,7 +19,6 @@ title: "9 Eylül 2025"
 
 * Yüksek Seçim Kurulu’nun yetkilerinin bypass edilmesi, “siyasi partilere kayyum atama” yolunun açılması olarak değerlendirildi.
 * Hukukçular, Asliye Hukuk Mahkemesi’nin CHP il kongresi kararını iptal etmesini ve kayyum atamasını “yetki gaspı” ve “hukuk birliğinin çöküşü” olarak nitelendirdi.
-* Gazeteci Fatih Altaylı, tutukluluğunun 80. gününde Silivri’den gönderdiği notlarda Türkiye’nin “hukuk ve demokrasi yokluğunda boğulduğunu” yazdı.
 
 ---
 
