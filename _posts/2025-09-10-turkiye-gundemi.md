@@ -32,7 +32,6 @@ title: "10 Eylül 2025"
 
 * **Basketbol:** A Milli Erkek Basketbol Takımı, EuroBasket’te Polonya’yı 91-77 yenerek yarı finale çıktı. Alperen Şengün triple-double performansıyla öne çıktı.
 * **Futbol:** A Milli Takım Dünya Kupası elemeleri için hazırlıklarını sürdürüyor. TFF, 2. ve 3. Lig maçlarının yayın anlaşmalarını duyurdu.
-* **Voleybol:** A Milli Kadın Voleybol Takımı, Dünya Şampiyonası yarı final mücadelesi için hazırlıklarını tamamladı.
 
 ---
 
