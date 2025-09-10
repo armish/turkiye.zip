@@ -42,7 +42,6 @@ title: "9 Eylül 2025"
 
 ## 🌱 Toplum ve Kültürel
 
-* **Depremler:** Balıkesir, Kahramanmaraş ve Muğla’da küçük çaplı depremler kaydedildi.
 * **İzmir’in Kurtuluşu:** 9 Eylül törenlerle kutlandı.
 * **Keban Barajı:** Türkiye elektrik üretiminin %8’ini sağlamaya devam ediyor.
 * **Kültür:** Zeugma Mozaik Müzesi 3,5 milyon ziyaretçiyi aştı.

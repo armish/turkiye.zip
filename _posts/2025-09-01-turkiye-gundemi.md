@@ -40,7 +40,6 @@ title: "1 Eylül 2025"
 
 ## 🌱 Çevre ve Toplum
 
-* **Deprem:** Balıkesir Sındırgı’da 6,1 büyüklüğünde deprem oldu; bir kişi hayatını kaybetti.
 * **Yangınlar:** Bursa’daki orman yangınlarında 1.765 kişi tahliye edildi.
 * **Cinayet ve Şiddet:** Boğaziçi Üniversitesi’nde 15 yaşındaki Hilal Özdemir, ayrılmak istediği erkek tarafından öldürüldü. Failin çok sayıda sabıkası olduğu ortaya çıktı.
 * **Polis İntiharları:** Yıl başından bu yana 52 polis intihar etti. Polis özlük hakları için kurullarda görüşmeler devam ediyor.
