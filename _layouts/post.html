@@ -19,9 +19,38 @@ layout: default
 </div>
 
 <div class="sticky-title">
-  <h1>{{ page.title }}</h1>
+  <h1 id="post-title-with-day">{{ page.title }}</h1>
   <hr>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const titleElement = document.getElementById('post-title-with-day');
+  const titleText = titleElement.textContent;
+  
+  // Parse the date from title (format: "DD Month YYYY")
+  const monthNames = {
+    'Ocak': 0, 'Şubat': 1, 'Mart': 2, 'Nisan': 3, 'Mayıs': 4, 'Haziran': 5,
+    'Temmuz': 6, 'Ağustos': 7, 'Eylül': 8, 'Ekim': 9, 'Kasım': 10, 'Aralık': 11
+  };
+  
+  const dayNames = ['Pazar', 'Pazartesi', 'Salı', 'Çarşamba', 'Perşembe', 'Cuma', 'Cumartesi'];
+  
+  // Try to parse the date
+  const parts = titleText.trim().split(' ');
+  if (parts.length === 3) {
+    const day = parseInt(parts[0]);
+    const monthName = parts[1];
+    const year = parseInt(parts[2]);
+    
+    if (!isNaN(day) && monthNames.hasOwnProperty(monthName) && !isNaN(year)) {
+      const date = new Date(year, monthNames[monthName], day);
+      const dayName = dayNames[date.getDay()];
+      titleElement.textContent = `${titleText} - ${dayName}`;
+    }
+  }
+});
+</script>
 
 {{content}}
 
