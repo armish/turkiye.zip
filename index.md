@@ -147,9 +147,19 @@ document.addEventListener('DOMContentLoaded', function() {
       post.date = new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
     }
   });
-  
+
   // Filter out posts without valid dates
-  const validPosts = posts.filter(p => p.date);
+  let validPosts = posts.filter(p => p.date);
+
+  // Get current month and year
+  const now = new Date();
+  const currentYear = now.getFullYear();
+  const currentMonth = now.getMonth();
+
+  // Filter posts to only show current month
+  validPosts = validPosts.filter(post => {
+    return post.date.getFullYear() === currentYear && post.date.getMonth() === currentMonth;
+  });
   
   // Group posts by date string
   const postsByDate = {};
