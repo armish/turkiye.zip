@@ -152,7 +152,7 @@ ul li {
 }
 
 .scroll-to-top {
-  background-color: #267CB9;
+  background-color: #000000;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -160,9 +160,9 @@ ul li {
   font-size: 14px;
   cursor: pointer;
   transition: background-color 0.3s ease;
-  
+
   &:hover {
-    background-color: #1e5a8a;
+    background-color: #333333;
   }
   
   &:active {
