@@ -33,7 +33,6 @@ title: "8 Aralık 2025"
 
 ## 🎭 Kültür ve Toplum
 
-* **Kelliğe çare tartışması ve sağlık turizmi**: Saç dökülmesini durdurduğu iddia edilen yeni ilacın 2026’da piyasaya çıkacağı açıklanınca Türkiye’deki saç ekimi sektörünün geleceği yeniden gündem oldu. Türkiye’nin dünya saç ekimi pazarının üçte birini oluşturduğu, sağlık turizminde bu alanın payının çok büyük olduğu vurgulandı. İlacın tamamen kellik için çözüm sunmaması nedeniyle sektörün kısa vadede etkilenmeyeceği değerlendirildi.
 * **Dünyanın en uzun yürüyüşü**: 1998’de Şili’den yola çıkan gezgin Carl Bushby’nin hiçbir motorlu araç kullanmadan İngiltere’ye yürüyerek ulaşma projesinde Türkiye’den geçişi ve Avrupa’ya ilerleyişi sosyal medyada ilgi çekti. Bushby’nin darien geçidi, Bering Boğazı ve Hazar Denizi gibi ekstrem rotaları aşarak ilerlemesi dikkat çekti. Geçişin 2025 sonbaharında tamamlanması bekleniyor.
 
 ---
