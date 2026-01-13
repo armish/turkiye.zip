@@ -1,0 +1,38 @@
+---
+layout: post
+title: "13 Ocak 2026"
+---
+
+## 🌍 Dış Politika ve Güvenlik
+
+* **İran’daki protestolar, rejim krizi ve bölgesel savaş riski**: İran’da haftalardır süren protestoların yüz seksen altı kente yayıldığı, on binin üzerinde gözaltı ve binlerle ifade edilen can kaybı iddialarının bulunduğu aktarıldı. İnternetin kesilmesi, rejimin kendi destekçilerini de sokağa çağırması ve ABD Başkanı Donald Trump’ın “vurabiliriz” minvalindeki açıklamaları, İran’ın artık yalnızca bir iç kriz değil aynı zamanda sıcak çatışma eşiğinde bir dosya haline geldiğini gösteriyor. Tüm bunların, otoriter rejimlerin reform kapasitesini yitirdiğinde nasıl hızla şiddet ve dış müdahale riskine sürüklendiğinin somut bir örneği olduğu ve Türkiye’nin bu süreci yalnızca dış politika değil iç siyasi dersler açısından da dikkatle izlemesi gerektiği vurgulandı.
+* **ABD–İsrail hattı ve İran’a yönelik askeri baskının artması**: Trump’ın İran liderlerinin kendisiyle görüşmek istediğini söyleyip aynı anda “belki gelmeden vururuz” diyerek alaycı bir dil kullanması, diplomasi ile tehdidin bilinçli biçimde iç içe geçirildiği yeni bir döneme işaret ediyor. İsrail’de hastanelerin olağanüstü duruma geçirilmesi ve ABD’de benzer hazırlıkların yapılması, askeri seçeneğin masada olduğuna dair güçlü sinyaller olarak aktarıldı. Bu yaklaşımın, İran içindeki muhalefeti güçlendirmekten çok rejimi daha da sertleştirdiği ve bölgeyi kontrolsüz bir kaosa sürükleme riski taşıdığı yorumları öne çıktı.
+* **Türkiye açısından İran dosyasının yarattığı stratejik eşik**: Yayınlarda İran örneğinin Türkiye için bir “gelecek senaryosu” olarak okunmaması gerektiği, ancak bağımsız yargı eksikliği, ekonomik yoksullaşma ve demokratik kanalların tıkanmasının uzun vadede benzer kilitlenmelere yol açabileceği uyarısı yapıldı. İran’ın bugün geldiği noktada ne rejimin ne de muhalefetin çözüm üretebildiği, bunun da ülkeyi dış müdahalelere açık hale getirdiği belirtildi. Türkiye’nin hâlâ bu döngüden çıkma imkânına sahip olduğu, ancak bunun zamanında alınacak siyasi ve kurumsal tedbirlerle mümkün olabileceği görüşü dile getirildi.
+* **SDG–Şam anlaşmasının bozulması ve Halep’te çatışma riski**: Suriye’de SDG ile Şam yönetimi arasında mutabakata varılmak üzereyken, son anda anlaşmanın durduğu ve Halep’te iki Kürt mahallesinin boşaltılmaması üzerinden çatışma çıktığı aktarıldı. SDG yöneticilerinin açıklamalarında, mutabakatın neredeyse imzalanma aşamasındayken “adı verilmeyen bir bölgesel aktörün” müdahalesiyle kesintiye uğradığı iddia edildi. Yayınlarda bu durumun, Türkiye’nin savunduğu entegrasyon tezini fiilen zayıflattığı ve sürecin neden şeffaf biçimde sahiplenilmediği sorusunu gündeme getirdiği ifade edildi.
+* **PKK’nın Kandil hattının süreci sabote etmesi iddiası**: Mazlum Abdi ve İlham Ahmed’in uzlaşmaya açık mesajlarına rağmen, Kandil’in Halep’teki çekilmeye karşı çıkması ve çatışmayı tetiklemesi dikkat çekti. Bu tutum, geçmişte Türkiye’de hendek sürecinde yaşanan meşruiyet kaybıyla benzerlik kurularak değerlendirildi. Yorumlarda, PKK’nın bu hamlesinin Kürt siyasi kazanımlarını zayıflattığı, SDG’yi ABD ve İsrail desteğinden de mahrum bıraktığı ve Kürt kamuoyu açısından ciddi bir sorgulama başlığı oluşturduğu belirtildi.
+
+---
+
+## 💰 Ekonomi
+
+* **Trump’ın İran’la ticaret yapan ülkelere yüzde yirmi beş vergi tehdidi**: ABD Başkanı Trump’ın, İran’la ticaret yapan ülkelere ABD pazarında ek yüzde yirmi beş gümrük vergisi uygulanacağını açıklaması, Türkiye ekonomisi açısından doğrudan risk olarak değerlendirildi. Türkiye’nin ABD’ye ihracatta üçüncü büyük ortak olması ve İran’la da kayda değer ticaret hacmine sahip olması, bu tehdidin özellikle tekstil, çelik ve otomotiv yan sanayisinde ciddi daralma yaratabileceği endişesini doğurdu. Yayınlarda, öngörülebilirliğin tamamen ortadan kalktığı bu tarz ani kararların yalnızca patronları değil binlerce işçiyi etkileyebilecek zincirleme sonuçlar doğuracağı vurgulandı.
+* **Halkbank davası ve yaptırım hafızasının yeniden canlanması**: Trump’ın çıkışıyla birlikte Halkbank davası ve geçmişte İran ticareti üzerinden yaşanan yaptırımlar yeniden hatırlatıldı. Dosyanın hâlâ tamamen kapanmamış olması, yeni yaptırım dalgalarının hukuki ve finansal risklerini artıran bir unsur olarak değerlendirildi. Türkiye’nin bu süreçte diplomatik reflekslerini hızla devreye sokmaması halinde, ekonomik kırılganlığın daha da derinleşebileceği ifade edildi.
+
+---
+
+## 📰 Hukuk, Medya ve Toplum
+
+* **Uyuşturucu, kumar ve fuhuş soruşturmalarının İBB dosyasıyla kesişmesi**: İstanbul Cumhuriyet Başsavcılığı’nın yürüttüğü operasyonlarda, sanat ve medya dünyasından isimlerin gözaltına alınması ve ifadelerin İBB soruşturmasında adı geçen kaçak iş insanlarına uzanması dikkat çekti. Emel Müftüoğlu, Oktay Kaynarca ve Selen Görgüzel isimlerinin farklı dosyalar üzerinden gündeme gelmesi, soruşturmaların tekil değil zincirleme ilerlediğini gösterdi. Bu tablonun, yargının geniş bir temizlik mi yaptığı yoksa dosyaların birbirine eklemlenerek yeni bir güç dengesi mi kurulduğu sorusunu beraberinde getirdiği yorumlandı.
+* **Toplumsal mutsuzluk ve Türkiye Duygu Raporu**: Birleşmiş Milletler verilerine dayanan değerlendirmelerde, Türkiye’nin mutluluk endeksinde son sıralara gerilediği, öfke ve kaygı düzeylerinin belirgin biçimde arttığı aktarıldı. Gelir adaletsizliği, yolsuzluk algısı ve özgürlüklerin daralmasının bu mutsuzluğun temel nedenleri olduğu vurgulandı. Yayınlarda, yalnızca ekonomik değil aynı zamanda siyasal ve hukuki iklimle doğrudan bağlantılı olduğu ifade edildi.
+
+---
+
+## 🎭 Kültür ve Sanat
+
+* **İKSV’de yönetim değişimi ve İstanbul Bienali tartışmaları**: İstanbul Kültür Sanat Vakfı’nda uzun yıllardır genel müdürlük yapan Görgün Taner’in görevi Yeşim Oymak Gürer’e devretmesi, kültür sanat dünyasında önemli bir eşik olarak değerlendirildi. İstanbul Bienali kapsamında küratör Kristin Tohmé’nin projeden çekilmesi ve bienalin geleceğine dair belirsizlikler, vakfın son yıllarda artan baskılarla zorlandığını gösteren bir örnek olarak aktarıldı. Yorumlarda, kültür sanat alanındaki bu kırılganlığın da genel siyasal iklimden bağımsız olmadığı vurgulandı.
+
+---
+
+## 📌 Genel Değerlendirme
+
+13 Ocak gündemi, **İran merkezli bölgesel kriz ile Türkiye’nin ekonomik ve güvenlik kırılganlıklarının kesiştiği** bir tablo sundu. İran’da yaşananlar, otoriter rejimlerin reform kapasitesini yitirdiğinde nasıl hızla iç savaşa ve dış müdahaleye açık hale geldiğini gösterirken, Trump’ın öngörülemez politikaları Türkiye ekonomisi için somut riskler üretti. İçeride ise yargı dosyalarının genişlemesi ve toplumsal mutsuzluk verileri, siyasal istikrar ile hukukun güvenilirliği arasındaki bağın daha görünür hale geldiğini ortaya koydu.
