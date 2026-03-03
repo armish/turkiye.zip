@@ -1,0 +1,24 @@
+---
+layout: post
+title: "3 Mart 2026"
+---
+
+## 🏛️ Siyaset ve İç Gelişmeler
+
+* **CHP’nin Cumhurbaşkanlığı Aday Ofisi lansmanı gölgede kaldı**: Özgür Özel’in başkanlığında, Ekrem İmamoğlu’nun Cumhurbaşkanlığı Aday Ofisi tarafından hazırlanan politika çerçevesi kamuoyuna açıklandı; Mansur Yavaş ve Dilek İmamoğlu da toplantıda yer aldı. Açıklanan çerçevede Cumhurbaşkanlığı yetkilerinin sınırlandırılması, kuvvetler ayrılığı ve denge-denetleme mekanizmalarının güçlendirilmesi, parlamenter sisteme geçiş hedefi, en düşük emekli maaşının asgari ücrete yükseltilmesi ve okullarda ücretsiz yemek gibi sosyal politikalar öne çıktı. Ancak İran merkezli savaşın dördüncü gününde gündemin tamamen dış gelişmelere kilitlenmesi nedeniyle bu lansman kamuoyunda beklenen etkiyi yaratmadı; yayınlarda zamanlamanın siyasi açıdan hatalı olup olmadığı tartışıldı ve böylesi iddialı bir çıkışın “gür sesle” duyurulamadığı yorumu yapıldı.
+* **Savaşın Erdoğan’a olası siyasi etkisi ve “kenetlenme” tartışması**: Yayınlarda kriz ve savaş dönemlerinde toplumun mevcut lider etrafında kenetlenme eğilimi gösterdiği, bunun Cumhurbaşkanı Erdoğan’a kısa vadede siyasi avantaj sağlayabileceği dile getirildi. “Dere geçerken at değiştirilmez” psikolojisinin özellikle güvenlik tehdidi algısının yükseldiği dönemlerde güçlendiği vurgulandı. Ancak aynı yayınlarda uzun vadede tek adam sistemi, zayıflayan kurumlar ve ekonomik kırılganlıkların Türkiye’yi dış müdahalelere daha açık hale getirebileceği uyarısı yapıldı; Erdoğan’ın bu konjonktürü kendi siyasi alanını genişletmek için mi yoksa kurumsal reformlara yönelmek için mi kullanacağı temel soru olarak öne çıktı.
+* **“Tek adam rejimi” ve sistem tartışması yeniden gündemde**: İran’da dini liderin hedef alınması ve devlet kurumlarının vurulması üzerinden Türkiye’deki sistem tartışmalarına gönderme yapıldı. Kurumsallaşmış devlet yapısının önemi, yargı bağımsızlığı ve denge-denetleme mekanizmalarının kriz dönemlerinde hayati olduğu vurgulandı. Yayınlarda, başkanlık sisteminin kendisinden ziyade yetkilerin sınırlandırılması ve kuvvetler ayrılığının güçlendirilmesi gerektiği yönünde görüşler dile getirildi; aksi halde dış krizlerin içeride daha otoriter bir iklime gerekçe yapılabileceği uyarısı yapıldı.
+
+---
+
+## 💰 Ekonomi
+
+* **Emekliye bayram ikramiyesi ve “yüksek gelirli ülke” çelişkisi**: AK Parti Grup Başkanı Abdullah Güler, emekliye bayram ikramiyesinin dört bin lira olarak kalacağını ve artış yapılmayacağını açıkladı; gerekçe olarak küresel gelişmeler ve artan petrol fiyatları gösterildi. Aynı saatlerde Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye’nin kişi başı gelirinin on sekiz bin dolara ulaştığını, ekonominin büyüdüğünü ve yüksek gelirli ülkeler grubuna yaklaşılmakta olduğunu ifade etti. Yayınlarda bu iki açıklama arasındaki zamanlama çarpıcı bulundu; “yüksek gelirli ülke” söylemi ile emekliye reel artış yapılamaması arasındaki çelişkinin toplumdaki güven sorununu derinleştirdiği yorumu yapıldı.
+* **Büyüme rakamları ve kur tartışması**: Resmi verilere göre ekonominin büyüdüğü ve milli gelirin arttığı belirtilirken, bunun vatandaşın cebine yansımadığı eleştirisi öne çıktı. Yayınlarda, döviz kurunun uzun süredir baskı altında tutulmasının dolar bazlı milli geliri olduğundan yüksek gösterdiği; ancak yüksek enflasyon ve alım gücü kaybı nedeniyle bu artışın günlük hayatta hissedilmediği savunuldu. “Rakamlarla gerçek hayat arasındaki kopukluk” ifadesi özellikle vurgulandı.
+* **Savaşın Türkiye ekonomisine etkisi ve kırılganlık uyarısı**: İran–ABD–İsrail hattındaki gerilimin petrol fiyatlarını yukarı çekmesi, Türkiye gibi enerji ithalatçısı ülkeler açısından ciddi bir risk olarak değerlendirildi. İran ile ticarette yaşanabilecek aksamalar, enerji maliyetlerindeki artış ve enflasyon üzerindeki baskının bütçe dengesini zorlayabileceği ifade edildi. Yayınlarda Türkiye’nin küresel krizlere yüksek enflasyon, yüksek faiz ve kırılgan para politikası zeminiyle yakalanmasının yapısal bir sorun olduğu; savaşın bu kırılganlığı daha görünür hale getirdiği yorumlandı.
+
+---
+
+## 📌 Genel Değerlendirme
+
+3 Mart 2026 gündemi Türkiye açısından, dışarıda hızla tırmanan bir bölgesel savaşın içeride siyaset ve ekonomi üzerindeki etkilerinin tartışıldığı bir gün oldu. CHP’nin aday ofisi lansmanı savaşın gölgesinde kalırken, güvenlik atmosferinin iktidara kısa vadeli siyasi avantaj sağlayabileceği ancak uzun vadede kurumsal zayıflamanın risk yaratabileceği uyarıları yapıldı. Ekonomide ise “yüksek gelirli ülke” söylemi ile emekliye zam yapılamaması arasındaki çelişki öne çıktı; petrol fiyatlarındaki artışın mevcut kırılganlığı derinleştirebileceği değerlendirildi. Günün genel havası, dış krizlerin Türkiye’de hem siyasi dengeyi hem de ekonomik gerçekliği yeniden sınadığı yönündeydi.
